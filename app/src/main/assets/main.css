@@ -2,7 +2,7 @@ body,html,#plot {
     padding: 0;
     margin: 0;
 }
+
 #graphLine {
-    fill: none;
     stroke: red;
 }
